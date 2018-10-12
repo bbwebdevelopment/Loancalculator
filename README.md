@@ -2,16 +2,16 @@
 
 ## Bootstrap 4 and javascript fundamentals
 
-*GetElementById
+GetElementById
 
-*Set Timeout
+Set Timeout
 
-*parse float
+parse float
 
-*Math.pow
+Math.pow
 
-*isFinite
+isFinite
 
-*create text node
+create text node
 
-*insertbefore
+insertbefore
